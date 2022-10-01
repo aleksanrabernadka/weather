@@ -48,3 +48,13 @@ li {
 .weather.form {
   margin-bottom: 20px;
 }
+small {
+  font-size: 80%;
+  font-weight: 400s;
+
+  text-align: center;
+  display: block;
+}
+a {
+  text-decoration: none;
+}
